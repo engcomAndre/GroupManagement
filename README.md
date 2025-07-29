@@ -607,4 +607,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-**⭐ Se este projeto foi útil, considere dar uma estrela no repositório!** 
+**⭐ Se este projeto foi útil, considere dar uma estrela no repositório!** # GroupManagement
